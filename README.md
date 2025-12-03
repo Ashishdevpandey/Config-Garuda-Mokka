@@ -28,7 +28,7 @@ Ensure you have the following installed on your system:
 
 1.  **Clone the repository** (if you haven't already):
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Ashishdevpandey/Config-Garuda-Mokka.git
     cd config
     ```
 
@@ -63,13 +63,7 @@ Ensure you have the following installed on your system:
     *   Open **System Settings**.
     *   Go to **Appearance** -> **Global Theme** and select **WhiteSur**.
     *   Go to **Appearance** -> **Application Style** -> **Kvantum** to ensure Kvantum is selected.
-    *   Open **Kvantum Manager** and select the **WhiteSur** theme.
-
-## Screenshots
-
-*(Placeholder for screenshots of your desktop setup)*
-
-![Desktop Screenshot](path/to/screenshot.png)
+    *   Open **Kvantum Manager** and select the **WhiteSur** theme
 
 ## License
 
